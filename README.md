@@ -5,7 +5,7 @@
 ## I'm a recently graduating CS student at SFSU
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m looking to join a company that shares my values
-- 🥅 2020 Goals: Launch my new web development company finish school
+- 🥅 2020 Goals: Launch my new web development company and finish school
 - ⚡ Fun fact: My cat is named Kerrigan after the starcraft protagonist
 
 ### Connect with me:
