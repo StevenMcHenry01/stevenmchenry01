@@ -1,4 +1,4 @@
-![logo of cat head and name](/images/logo-full.png)
+<img alt="logo with name" src="http://u.cubeupload.com/stevenmchenry01/logofull.png" />
 ### Hey there, I'm Steven - feel free to check out my [Website][website] 👋
 
 ## I'm a recently graduating CS student at SFSU
