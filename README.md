@@ -6,7 +6,7 @@
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m looking to join a company that shares my values
 - 🥅 2020 Goals: Launch my new web development company and finish school
-- ⚡ Fun fact: My cat is named Kerrigan after the starcraft protagonist
+- ⚡ Fun fact: My cat is named Kerrigan after the starcraft antagonist
 
 ### Connect with me:
 
