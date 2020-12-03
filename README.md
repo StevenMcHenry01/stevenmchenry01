@@ -1,4 +1,4 @@
-[<img alt="logo with name" src="http://u.cubeupload.com/stevenmchenry01/logofull.png" />][website]
+[<img alt="logo with name" src="https://u.cubeupload.com/stevenmchenry01/Asset44x.png" />][website]
 
 ### Hey there, I'm Steven - feel free to check out my [Website][website] 👋
 
@@ -41,6 +41,6 @@
 
 <img align="left" alt="stevenmchenry01's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stevenmchenry01&show_icons=true&hide_border=true" />
 
-[website]: https://stevenmchenry.dev
+[website]: https://stevenmchenry.com
 [twitter]: https://twitter.com/StevenMcHenry01
 [linkedin]: https://www.linkedin.com/in/stevenmchenry01/
