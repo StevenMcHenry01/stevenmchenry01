@@ -2,10 +2,10 @@
 
 ### Hey there, I'm Steven - feel free to check out my [Website][website] 👋
 
-## I'm a recently graduating CS student at SFSU
+## I'm a recent CS graduate at SFSU
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m looking to join a company that shares my values
-- 🥅 2020 Goals: Launch my new web development company and finish school
+- 🥅 2021 Goals: Launch local business assisting company. Land a job with an awesome company.
 - ⚡ Fun fact: My cat is named Kerrigan after the starcraft antagonist
 
 ### Connect with me:
