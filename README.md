@@ -2,11 +2,11 @@
 
 ### Hey there, I'm Steven - feel free to check out my [Website][website] 👋
 
-## I'm a recent CS graduate at SFSU
+## I am a Frontend developer
 - 🌱 I’m actively growing my skillset
-- 🤝 I’m looking to join a company that shares my values
-- 🥅 2021 Goals: Launch local business assisting company. Land a job with an awesome company.
-- ⚡ Fun fact: My cat is named Kerrigan after the starcraft antagonist
+- 🤝 I’m always looking to collaborate on exciting projects
+- 🥅 2023 Goals: Launch an MVP of mental health application
+- ⚡ Fun fact: My cat is named Kerrigan after the Starcraft antagonist
 
 ### Connect with me:
 
