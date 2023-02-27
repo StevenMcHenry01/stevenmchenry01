@@ -1,11 +1,11 @@
-[<img alt="logo with name" src="https://u.cubeupload.com/stevenmchenry01/logo.png" />][website]
+[<img alt="logo with name" src="https://u.cubeupload.com/stevenmchenry01/3f9logo.png" />][website]
 
 ### Hey there, I'm Steven - feel free to check out my [Website][website] 👋
 
 ## I am a Frontend developer
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m always looking to collaborate on exciting projects
-- 🥅 2023 Goals: Launch an MVP of mental health application
+- 🥅 2023 Goals: Relaunch my personal website completely revamped
 - ⚡ Fun fact: My cat is named Kerrigan after the Starcraft antagonist
 
 ### Connect with me:
