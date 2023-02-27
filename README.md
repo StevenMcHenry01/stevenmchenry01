@@ -1,4 +1,4 @@
-[<img alt="logo with name" src="https://u.cubeupload.com/stevenmchenry01/3f9logo.png" />][website]
+[<img alt="logo with name" src="https://u.cubeupload.com/stevenmchenry01/aa9logo.png" />][website]
 
 ### Hey there, I'm Steven - feel free to check out my [Website][website] 👋
 
