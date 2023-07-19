@@ -8,12 +8,6 @@
 - 🥅 2023 Goals: Relaunch my personal website completely revamped
 - ⚡ Fun fact: My cat is named Kerrigan after the Starcraft antagonist
 
-### Connect with me:
-
-[<img align="left" alt="stevenmchenry.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="steven mchenry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="steven mchenry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
