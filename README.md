@@ -1,8 +1,8 @@
-[<img alt="logo with name" src="https://u.cubeupload.com/stevenmchenry01/aa9logo.png" />][website]
+![animated-logo-128x128-no-fade](https://github.com/StevenMcHenry01/stevenmchenry01/assets/20342632/c160e157-81b0-4b28-82e2-91684c9eb4da)
 
 ### Hey there, I'm Steven - feel free to check out my [Website][website] 👋
 
-## I am a Frontend developer
+## I am a Full-Stack developer
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m always looking to collaborate on exciting projects
 - 🥅 2023 Goals: Relaunch my personal website completely revamped
