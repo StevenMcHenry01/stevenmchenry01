@@ -5,7 +5,7 @@
 ## I am a Full-Stack developer
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m always looking to collaborate on exciting projects
-- 🥅 2023 Goals: Relaunch my personal website completely revamped
+- 🥅 2025->2026 Goals: Launch my latest business venture (PixelFit - AI-powered outfit visualization tool)
 - ⚡ Fun fact: My cat is named Kerrigan after the Starcraft antagonist
 
 ### Languages and Tools:
@@ -26,5 +26,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [website]: https://stevenmchenry.com
-[twitter]: https://twitter.com/StevenMcHenry01
 [linkedin]: https://www.linkedin.com/in/stevenmchenry01/
